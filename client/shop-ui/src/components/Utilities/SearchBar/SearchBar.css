@@ -1,0 +1,26 @@
+.search-input {
+    height: 30px;
+    border: none;
+    width: 300px;
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+    box-sizing: border-box;
+    padding: 0 0 0 15px;
+    font-size: 18px;
+}
+
+.search-input:hover, .search-input:focus {
+    outline: none;
+}
+
+.search-btn {
+    border: none;
+    width: 40px;
+    height: 30px;
+    padding: 0;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    background-color: #ed9f39;
+    box-sizing: border-box;
+    position: fixed;
+}
